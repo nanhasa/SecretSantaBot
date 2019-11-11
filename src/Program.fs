@@ -48,7 +48,6 @@ let main argv =
                 |> Seq.toArray
 
             // Shuffle participants, form pairs and send email
-            let circularNextReceiver i = participants.[(i + 1) % participants.Length]
             let! _ = 
                 participants
                 |> shuffle

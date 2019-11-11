@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "ionide.ionide-fsharp",
+        "ms-vscode.csharp",
+        "coenraads.bracket-pair-colorizer",
+        "eamodio.gitlens"   
+    ]
+}

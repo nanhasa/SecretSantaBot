@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "isRoot": true,
+  "tools": {
+    "paket": {
+      "version": "5.231.2",
+      "commands": [
+        "paket"
+      ]
+    },
+    "dotnet-ignore": {
+      "version": "1.0.4",
+      "commands": [
+        "dotnet-ignore"
+      ]
+    }
+  }
+}

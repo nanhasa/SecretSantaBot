@@ -2,7 +2,6 @@ module Domain
 
 open System
 
-type SenderName = SenderName of string
 type SenderEmailAddress = SenderEmailAddress of string
 type RecipientName = RecipientName of string
 type RecipientEmailAddress = RecipientEmailAddress of string

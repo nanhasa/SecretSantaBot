@@ -81,8 +81,8 @@ The app shuffles names in participants file and generates the pairing. Then it s
           / __(_ __   ||   \ /   |                                        |
          /\/___\___\_/  \  /_\   | Merry Christmas!                       |
         /      __        \/   \  | Your Secret Santa Bot                  |
-        |                |\___/  |                                        |
-  ______|________        |  \   /_________________________________________/
+        |                |\___/ /_________________________________________/
+  ______|________        |  \   
  /              /\       /   \
  |              | \     /     \
  \______________\  |___/       \
@@ -104,5 +104,5 @@ The app shuffles names in participants file and generates the pairing. Then it s
         \                       / \          \        /
          \__________________    \ |           |______/
                             \    /            /
-                             \__/____________/
-</pre>```
+                             \__/____________/</pre>
+```
